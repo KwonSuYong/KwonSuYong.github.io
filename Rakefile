@@ -5,7 +5,8 @@ require "bundler/setup"
 require "jekyll"
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "nandomoreirame/zetsu"
+GITHUB_REPONAME = "KwonSuYong/KwonSuYong.github.io"
+#GITHUB_REPONAME = "nandomoreirame/zetsu"
 
 namespace :site do
   desc "Generate blog files"
